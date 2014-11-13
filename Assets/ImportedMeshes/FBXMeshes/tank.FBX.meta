@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0f2a2194c49d9f143844633cee8e126f
+guid: 9c7c7b493e7b19d47889a5baa9a13df2
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
@@ -7,28 +7,19 @@ ModelImporter:
     100002: cannon
     100004: //RootNode
     100006: turrent
-    100008: bodycollider
     400000: body
     400002: cannon
     400004: //RootNode
     400006: turrent
-    400008: bodycollider
     2300000: body
     2300002: cannon
     2300004: turrent
-    2300006: bodycollider
     3300000: body
     3300002: cannon
     3300004: turrent
-    3300006: bodycollider
     4300000: body
     4300002: turrent
     4300004: cannon
-    4300006: bodycollider
-    6400000: body
-    6400002: cannon
-    6400004: turrent
-    6400006: bodycollider
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -51,7 +42,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: .0399999991
     meshCompression: 0
-    addColliders: 1
+    addColliders: 0
     importBlendShapes: 0
     swapUVChannels: 0
     generateSecondaryUV: 0
